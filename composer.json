@@ -1,0 +1,17 @@
+{
+    "name": "twoKodes/contactform",
+    "description": "A contact form package for Laravel",
+    "authors": [
+        {
+            "name": "Kofi Boakye",
+            "email": "kofiok@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TwoKodes\\Contactform\\": "src/",
+            "App\\": "app/"
+        }
+    }
+}
